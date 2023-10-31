@@ -3,6 +3,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+WordGameDictionary-5-letter-words.json
+
 
 ### STS ###
 .apt_generated
